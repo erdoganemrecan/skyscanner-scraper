@@ -1,3 +1,6 @@
+import subprocess
+subprocess.run(["playwright", "install"], check=True)
+
 from flask import Flask, request, jsonify
 import asyncio
 from search_flights import fetch_flights

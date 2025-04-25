@@ -1,6 +1,6 @@
 # Skyscanner Scraper (GPT Uyumlu)
 
-Bu proje, Playwright kullanarak Skyscanner uçuş arama sonuçlarını çekmek için hazırlanmıştır.
+Bu proje, Playwright kullanarak Skyscanner uçuş arama sonuçlarını çeker.
 Flask üzerinden çalışan bir API sunar ve GPT gibi sistemlerle entegre çalışmak üzere tasarlanmıştır.
 
 ## Kullanım
